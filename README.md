@@ -1,4 +1,4 @@
-# Cybersecurity Expert
+# Cybersecurity expert
 
 ### Certifications
 Title
@@ -9,7 +9,7 @@ Title
 ### Projects
 Title
 
-### Work Experience
+### Work experience
 Title
 - Big impact project 1
 - Big impact project 2
